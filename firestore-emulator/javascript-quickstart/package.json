@@ -11,5 +11,9 @@
     "filesystem": "1.0.1",
     "mocha": "5.2.0",
     "prettier": "1.15.2"
+    "engines": {
+  "node": "
+8"
+}
   }
 }
